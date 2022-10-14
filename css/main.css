@@ -1,0 +1,18 @@
+.custom-table {
+  border-collapse: collapse;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid black;
+  padding: 17px 35px;
+  font-size: 20px;
+}
+
+.footer-total .total {
+  padding-left: 245px;
+  font-size: 22px;
+}
+
+.footer-total .total-the__number {
+  padding-left: 125px;
+}/*# sourceMappingURL=main.css.map */
